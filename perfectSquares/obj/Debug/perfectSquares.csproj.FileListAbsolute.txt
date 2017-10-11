@@ -1,0 +1,6 @@
+C:\Users\Sam\Desktop\COMP241\perfectSquares\perfectSquares\bin\Debug\perfectSquares.exe.config
+C:\Users\Sam\Desktop\COMP241\perfectSquares\perfectSquares\bin\Debug\perfectSquares.exe
+C:\Users\Sam\Desktop\COMP241\perfectSquares\perfectSquares\bin\Debug\perfectSquares.pdb
+C:\Users\Sam\Desktop\COMP241\perfectSquares\perfectSquares\obj\Debug\perfectSquares.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Desktop\COMP241\perfectSquares\perfectSquares\obj\Debug\perfectSquares.exe
+C:\Users\Sam\Desktop\COMP241\perfectSquares\perfectSquares\obj\Debug\perfectSquares.pdb
